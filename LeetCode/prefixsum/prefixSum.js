@@ -1,7 +1,7 @@
-const input = [1, 2, 3, 4, 5];
+const input = [10, 5, 3, 4, 5];
 
-const i = 0;
-const j = 2;
+const i = 1;
+const j = 3;
 
 const computePrefixSum = (ar)=>{
     if(!ar.length) return ar;
