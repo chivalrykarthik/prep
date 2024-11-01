@@ -38,6 +38,8 @@ Here are the general steps for using the Two Pointers pattern:
 8. **Searching for a Target Range in a Sorted Array**
    - *Example:* Find the range of entries that match a target in database or search engine applications.
 
+8. **Binary search**
+
 ## Implementation Example
 Here’s an example of using the Two Pointers pattern to find two numbers in a sorted array that add up to a given target.
 
