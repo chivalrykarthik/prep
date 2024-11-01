@@ -1,7 +1,3 @@
-Certainly! Here’s a neatly documented section for a README file explaining prefix sums, their use case, and an example:
-
----
-
 # Prefix Sum
 
 ### Overview
